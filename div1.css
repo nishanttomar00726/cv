@@ -1,0 +1,105 @@
+body{
+
+  background-color:  #f3ecc2;
+}
+.first {
+ display: inline-block;
+/* background-color: #a3f7bf;*/
+  width : 500px;
+  height:150px;
+  margin-left: 40px;
+
+}
+.pp{
+  position:absolute;
+  border-radius: 100%;
+  height :150px;
+  width :150px;
+  margin-left: 50px;
+}
+.Nishant{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #e8505b;
+}
+.it{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.second{
+  display:inline-block;
+ /*background-color: #a3f7bf;*/
+ /*position: absolute;*/
+  right:50px;
+  width:500px;
+  height:150px;
+  margin-left: 250px;
+}
+.details{
+  text-align: right;
+  line-height: 2;
+}
+.third{
+  margin-left: 40px;
+  margin-top: 50px;
+  width:600px;
+  height:950px;
+/*  background-color: #a3f7bf;*/
+}
+.education{
+text-align: center;
+color:#e8505b;
+}
+.Education-details{
+  margin-top: 0;
+}
+.certificates{
+  text-align: center;
+  color:#e8505b;
+}
+.volunteer{
+  text-align: center;
+  color:#e8505b;
+}
+.fourth{
+  position: absolute;
+  display: inline-block;
+  left: 700px;
+  top:200px;
+  width:600px;
+  height:950px;
+/*  background-color: #a3f7bf;*/
+  margin-top: 9px;
+  right:40px;
+}
+.skills{
+  text-align: center;
+  margin-top: 0;
+  color:#e8505b;
+}
+.training{
+  text-align: center;
+  color:#e8505b;
+}
+.projects{
+    text-align: center;
+    color:#e8505b;
+}
+.publication{
+    text-align: center;
+    color:#e8505b;
+}
+.hobby{
+    text-align: center;
+    color:#e8505b;
+}
+
+.hobbies{
+  font-style: italic;
+}
+.language{
+    text-align: center;
+    color:#e8505b;
+  }
